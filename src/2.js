@@ -1,1 +1,1 @@
-/* My File Edition */
+/*resolviendo conflictos del rebase*/
